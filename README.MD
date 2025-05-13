@@ -28,7 +28,7 @@ Asegúrate de tener instalado:
 ### 2️⃣ Clona el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/hotel-app.git
+https://github.com/natatorres/prueba_final.git
 cd hotel-app
 
 
