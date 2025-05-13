@@ -14,7 +14,7 @@ Bienvenid@ 👋 Esta es una aplicación para registrar hoteles, habitaciones y c
 
 ## 🚀 ¿Cómo ejecutar el proyecto paso a paso?...........
 
-> Como si lo hiciera mi abuelita 👵
+
 
 ### 1️⃣ Prerrequisitos
 
